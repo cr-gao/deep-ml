@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 1 problems · 0 labs · 0 math
+**2** solved · 2 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Group Relative Advantage for GRPO](https://www.deep-ml.com/problems/224) | easy | 2026-10-10 | [solution](problems/0224-group-relative-advantage-for-grpo) |
 | [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-10-10 | [solution](problems/0156-implement-swiglu-activation-function) |
 
 ---
